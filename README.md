@@ -1,0 +1,2 @@
+# EnumToString
+Enum performance trap
